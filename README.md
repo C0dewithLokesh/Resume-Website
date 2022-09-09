@@ -1,2 +1,2 @@
 # Resume-Website
-Website -- <a href="https://twitter.com/Lokesh22072003">Click here </a>
+Website -- <a href="https://lokeshsharma22.github.io/Resume-Website/">Click here </a>
